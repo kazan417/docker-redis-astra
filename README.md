@@ -18,7 +18,7 @@ WARNING:
 
 -	**Where to get help**:  
 	[the Docker Community Slack](https://dockr.ly/comm-slack), [Server Fault](https://serverfault.com/help/on-topic), [Unix & Linux](https://unix.stackexchange.com/help/on-topic), or [Stack Overflow](https://stackoverflow.com/help/on-topic)
-## Note: tgis is docker file for astra
+## Note: this is docker file for astra
 
 # Supported tags and respective `Dockerfile` links
 
